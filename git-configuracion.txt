@@ -1,0 +1,6 @@
+Git Desde Cero
+#Comandos de configuracion
+git config --global user.name "Omar Zavala"
+git config --global user.email "alexoamr1993@gmail.com"
+git config --global core.editor nano
+git config --list
