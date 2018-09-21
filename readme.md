@@ -24,3 +24,11 @@ git config --global core.editor "code -wait"
 git config --list
 
 ```
+
+## Autor del archivo
+
+Alex Omar Zavala Bravo
+
+## Estudios Realizados
+
+Ingeniería de Sistemas - Universidad Nacional Pedro Ruiz Gallo
