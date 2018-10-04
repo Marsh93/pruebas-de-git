@@ -32,3 +32,5 @@ Alex Omar Zavala Bravo
 ## Estudios Realizados
 
 Ingeniería de Sistemas - Universidad Nacional Pedro Ruiz Gallo
+
+Esta línea fue creada en la rama Master
